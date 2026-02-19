@@ -1,6 +1,6 @@
 <?php
 namespace Focal\Forms;
 
-use PatrykNamyslak\FormBuilder\Form as PatForm;
+use PatrykNamyslak\PatForm\Form as PatForm;
 
 class Form extends PatForm{}
