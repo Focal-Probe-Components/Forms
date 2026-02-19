@@ -1,0 +1,20 @@
+{
+    "name": "probe/forms",
+    "description": "A form builder for the Focal PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Probe\\Forms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk",
+            "email": "contact@patryknamyslak.pl"
+        }
+    ],
+    "require": {
+        "patryknamyslak/patform": "^1.2"
+    }
+}
