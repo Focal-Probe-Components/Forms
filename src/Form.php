@@ -1,5 +1,5 @@
 <?php
-namespace Focal\Forms;
+namespace Probe\Support\Facades;
 
 use PatrykNamyslak\PatForm\Form as PatForm;
 

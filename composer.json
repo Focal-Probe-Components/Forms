@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Probe\\Forms\\": "src/"
+            "Probe\\Support\\Facades\\": "src/",
+            "Probe\\Support\\Forms\\": "src/"
         }
     },
     "authors": [
