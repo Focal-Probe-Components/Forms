@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "patryknamyslak/patform": "^1.2"
+        "patryknamyslak/patform": "1.2.1"
     }
 }
